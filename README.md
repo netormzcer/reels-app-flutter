@@ -18,7 +18,9 @@ Supports local video playback, vertical scrolling between videos, volume control
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
 
+```plaintext
 │   main.dart
 │
 ├───config
@@ -38,7 +40,7 @@ Supports local video playback, vertical scrolling between videos, volume control
 │   └───repositories
 │           video_posts_repository.dart
 │
-├───infraestructure
+├───infrastructure
 │   ├───datasources
 │   │       local_video_datasource_impl.dart
 │   │
@@ -68,9 +70,6 @@ Supports local video playback, vertical scrolling between videos, volume control
 └───shared
     └───data
             local_video_posts.dart
-
-
-
 ---
 
 ## ⚡ Functional Highlights
