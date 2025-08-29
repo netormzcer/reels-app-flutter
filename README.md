@@ -22,7 +22,6 @@ Supports local video playback, vertical scrolling between videos, volume control
 ---
 
 ## 📂 Project Structure
-## 📂 Project Structure
 
 ```plaintext
 │   main.dart
