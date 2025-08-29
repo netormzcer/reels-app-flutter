@@ -5,6 +5,10 @@ Supports local video playback, vertical scrolling between videos, volume control
 
 ---
 
+<div style="margin:auto;width:200px;padding:10px">
+<img src="images/home.jpg" alt="App Preview" width="200">
+</div>
+
 ## 📝 Key Features
 
 - Play **local videos** seamlessly.  
